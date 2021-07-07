@@ -1,4 +1,4 @@
-# Notes-App
+# Project
 
 Made using HTML , CSS and JavaScript
 
