@@ -1,4 +1,4 @@
-# Project
+# Pathfinding-Visualizer
 
 Made using HTML , CSS and JavaScript
 
